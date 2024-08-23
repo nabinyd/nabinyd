@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabinyd&label=Profile%20views&color=0e75b6&style=flat" alt="nabinyd" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nabinyd" alt="nabinyd" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/nabin_yd_" target="blank"><img src="https://img.shields.io/twitter/follow/nabin_yd_?logo=twitter&style=for-the-badge" alt="nabin_yd_" /></a> </p>
 
 - 🔭 I’m currently working on **Blackbook project**
 
@@ -13,9 +10,9 @@
 
 - 👯 Looking to collaborate on **open-source projects**
 
-- 👨‍💻 All of my projects are available at [https://www.nabinyadav1.com.np/](https://www.nabinyadav1.com.np/)
+- 👨‍💻 All of my projects are available at [nabinyadav1.com.np](https://www.nabinyadav1.com.np/)
 
-- 🌐 Visit my [https://www.nabinyadav1.com.np/](https://www.nabinyadav1.com.np/)
+- 🌐 Visit my [nabinyadav1.com.np](https://www.nabinyadav1.com.np/)
 
 - 💬 Ask me about **react, node js, SQL, firebase, mongodb, flutter**
 
