@@ -9,6 +9,7 @@
 
 - 📫 Reach me At **nabiny501@gmail.com**
 
+[![An image of @nabinyd's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nabinyd)](https://holopin.io/@nabinyd)
 
 
 <h3 align="left">Connect with me:</h3>
