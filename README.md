@@ -3,7 +3,6 @@
 
 
 
-- 🌱 Learning and experimenting with **Next.js**
 
 - 🌐 Visit my [website.](https://www.nabinyadav1.com.np/)
 
